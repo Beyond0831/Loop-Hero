@@ -1,4 +1,3 @@
-![image](https://github.com/Beyond0831/Loop-Hero/assets/79389594/dcf56603-dcaa-475b-8ebb-3c55b40bc6f7)![image](https://github.com/Beyond0831/Loop-Hero/assets/79389594/98bb2436-57f9-4790-aa2b-8690158f3737)
 ![image](https://github.com/Beyond0831/Loop-Hero/assets/79389594/dfbc8bbc-5213-4081-80f8-3f0712666a7c)
 ![image](https://github.com/Beyond0831/Loop-Hero/assets/79389594/0944e36c-181e-4ea8-b5f6-7e83a38baa1b)
 ![image](https://github.com/Beyond0831/Loop-Hero/assets/79389594/5ce71aab-dacc-4542-84e4-f8a5e0fcc033)
