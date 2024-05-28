@@ -8,12 +8,12 @@
 | 7.01 |    ALL     |       390       |    Update the UML and write User Stoary    |
 | 7.02 |    ALL     |       390       |          Submission for milestone 1        |
 | 7.06 |    ALL     |       170       |Discuss the structure of the project code   |
-| 7.07 |Shixing Away|       45        |          Job divide to all group members   |
+| 7.07 |    ALL     |       45        |          Job divide to all group members   |
 | 7.12 |    ALL     |       320       |First merge the work of group member done to Develop |
 | 7.15 |    ALL     |       190       |Second merge the work of group member done to Develop |
 | 7.17 |    ALL     |       540       | fix bug and write test |
 | 7.18 |    ALL     |       760       | UML, test coverage, javadoc, final merge, Submission for milestone 2 |
-| 7.24 |Shixing Away|       107       | Discuss what to do for milestone3, and divide works |
+| 7.24 |    ALL     |       107       | Discuss what to do for milestone3, and divide works |
 | 7.28 |    ALL     |       115       | Merge finished work to develop, and assign new works |
 | 8.1 |    ALL     |       330       | UML, test coverage, javadoc, final merge, Submission for milestone 3 |
 
@@ -159,6 +159,7 @@ Attendees:
 
 - Xihao
 - Mingyuan
+- Shi Xing
 - Zhixuan
 - Zhao Huang
 
@@ -341,6 +342,7 @@ Attendees:
 
 - Xihao
 - Mingyuan
+- Shi Xing
 - Zhixuan
 - Zhao Huang
 
